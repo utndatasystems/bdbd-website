@@ -1,4 +1,5 @@
 <!doctype html>
+{% assign page_year = page.event_year | default: site.current_year %}
 <html lang="{{ site.lang }}">
   <!-- Head -->
   <head>
@@ -16,7 +17,7 @@
   </head>
 
   <!-- Body -->
-  <body class="{% if site.navbar_fixed %}fixed-top-nav{% endif %} {% unless site.footer_fixed %}sticky-bottom-footer{% endunless %}">
+  <body class="edition-{{ page_year }} {% if site.navbar_fixed %}fixed-top-nav{% endif %} {% unless site.footer_fixed %}sticky-bottom-footer{% endunless %}">
     <!-- Header -->
     {% include header.liquid %}
 

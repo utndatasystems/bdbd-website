@@ -1,49 +1,17 @@
 ---
-layout: page
+layout: none
 permalink: /participation/
-title: Participation
-nav: true
-nav_order: 3
+sitemap: false
 ---
-
-
-
-### Date
-October 30, 2025 in Nuremberg, Germany.
-
-Add the event to your [Google Calendar](https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=MGdwNDg1Zmk0ZzM5cTdqYmdqb3R2aXN1aHUgNzU4NTgwZmE0YTBhMzhiMTZmMjBmMWM5OGYzMTM1Yzc1ZTBkMTM0NWQ2ODczOGI4ZjJiZTFhODYxZDMwYzdhZUBn&tmsrc=758580fa4a0a38b16f20f1c98f3135c75e0d1345d68738b8f2be1a861d30c7ae%40group.calendar.google.com).
-
-### Registration
-Authors of accepted abstracts will receive a registration link.
-
-The registration fee is 50€.
-
-### Venue
-Cube One, University of Technology Nuremberg.
-
-Dr.-Luise-Herzberg-Str. 4<br>
-90461 Nuremberg
-
-View location on [Google Maps](https://maps.app.goo.gl/2ZGJN1bHrmLERDas7).
-
-<div class="w-50">
-{% include figure.liquid loading="eager" path="assets/img/cubeone.jpg" caption="Cube One Building ©Stefan Meyer" class="img-fluid rounded z-depth-1" %}
-</div>
-
-### Transportation
-Nuremberg is perfectly reachable by train.
-From the central station, take the U1 towards "Langwasser Süd" and get off at "Bauernfeindstraße" after about five minutes. From there, walk around 400 meters to the northwest.
-
-There is also a [Park & Ride area](https://maps.app.goo.gl/nBnvVtRxNEx3Nqw66) at the "Bauernfeindstraße" U-Bahn station.
-
-### Wi-Fi
-
-The venue will offer both `eduroam` and `BayernWLAN`.
-
-### History & Local Attractions
-Nuremberg has a rich cultural history. As one of the most important cities in the late Middle Ages where the imperial regalia (the imperial crown, the imperial cross, the holy lance, ...) of the Holy Roman Empire were kept, the city's most prominent landmark is the [Kaiserburg](https://maps.app.goo.gl/YeA2ZbKxPtgBHYDr6), located near the city center. It is also possible to take tours along the old city walls and go underground through secret passages and tunnels.
-
-### Accommodation
-We recommend the [Cloud One](https://www.the-cloud-one.com/de/hotels/nuernberg/hotel-nuernberg/) hotel, which is conveniently located near the central train station and [Tucher Mautkeller](https://tucher-mautkeller.de/), where we will be having dinner.
-
-Please book your accommodation well in advance, as a congress will be taking place at the same time.
+<!doctype html>
+<html lang="{{ site.lang }}">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="refresh" content="0; url={{ '/2026/participation/' | relative_url }}">
+    <link rel="canonical" href="{{ '/2026/participation/' | absolute_url }}">
+    <script>window.location.replace("{{ '/2026/participation/' | relative_url }}");</script>
+  </head>
+  <body>
+    <a href="{{ '/2026/participation/' | relative_url }}">Participation</a>
+  </body>
+</html>

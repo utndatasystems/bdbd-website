@@ -1,6 +1,8 @@
 <div class="news">
-  {% if site.news != blank %}
-    {% assign news_size = site.news | size %}
+  {% assign page_year = page.event_year | default: site.current_year %}
+  {% assign year_news = site.news | where: 'event_year', page_year %}
+  {% if year_news != blank %}
+    {% assign news_size = year_news | size %}
     <div
       class="table-responsive"
       {% if include.limit and page.announcements.scrollable and news_size > 3 %}
@@ -8,7 +10,7 @@
       {% endif %}
     >
       <table class="table table-sm table-borderless">
-        {% assign news = site.news | reverse %}
+        {% assign news = year_news | reverse %}
         {% if include.limit and page.announcements.limit %}
           {% assign news_limit = page.announcements.limit %}
         {% else %}

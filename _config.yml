@@ -2,17 +2,30 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: Bavarian Database Day 2025 # the website title (if blank, full name will be used instead)
+title: Bavarian Database Day 2026 # the website title (if blank, full name will be used instead)
 contact_note: 
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  The Bavarian Database Day (BDBD) is an annual one-day workshop bringing together researchers and industry professionals from the database community to present cutting-edge work, discuss future directions, and connect with each other. The workshop will take place on October 30, 2025, in Nuremberg, Bavaria.
+  The Bavarian Database Day (BDBD) is an annual one-day workshop bringing together researchers and industry professionals from the database community to present cutting-edge work, discuss future directions, and connect with each other. The workshop will take place on October 26, 2026, in Munich, Bavaria.
 footer_text: Created by <a href="https://andi-zimmerer.com">Andi Zimmerer</a>.
 keywords: conference, databases, research, bavaria # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon:  # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
-url: https://www.databaseday.de # the base hostname & protocol for your site
+url: https://databaseday.de # the base hostname & protocol for your site
 baseurl: # the subpath of your site, e.g. /blog/. Leave blank for root
+current_year: "2026"
+years: ["2025", "2026"]
+events:
+  "2025":
+    title: Bavarian Database Day 2025
+    date: October 30, 2025
+    location: Nuremberg
+    calendar_url: https://calendar.google.com/calendar/render?action=TEMPLATE&text=Bavarian%20Database%20Day%202025&dates=20251030T090000/20251030T210000&ctz=Europe%2FBerlin&location=Cube%20One%2C%20University%20of%20Technology%20Nuremberg%2C%20Dr.-Luise-Herzberg-Str.%204%2C%2090461%20Nuremberg
+  "2026":
+    title: Bavarian Database Day 2026
+    date: October 26, 2026
+    location: Munich
+    calendar_url: https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=Mzk5NTZlY3RnaDUyazRxZmoxajZzbG9wc2EgNzU4NTgwZmE0YTBhMzhiMTZmMjBmMWM5OGYzMTM1Yzc1ZTBkMTM0NWQ2ODczOGI4ZjJiZTFhODYxZDMwYzdhZUBn&tmsrc=758580fa4a0a38b16f20f1c98f3135c75e0d1345d68738b8f2be1a861d30c7ae%40group.calendar.google.com
 last_updated: true # set to true if you want to display last updated in the footer
 impressum_path: # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
 back_to_top: true # set to false to disable the back to top button
