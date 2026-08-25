@@ -156,6 +156,14 @@ plugins:
 # Sitemap settings
 defaults:
   - scope:
+      path: "_pages/2025"
+    values:
+      event_year: "2025"
+  - scope:
+      path: "_pages/2026"
+    values:
+      event_year: "2026"
+  - scope:
       path: "assets"
     values:
       sitemap: false

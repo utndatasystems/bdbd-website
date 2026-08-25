@@ -2,6 +2,7 @@
 layout: about
 title: About
 permalink: /2025/
+event_year: "2025"
 heading: <b>Bavarian Database Day 2025</b>
 subtitle: Research / Industry Talks & Networking<br>October 30, 2025
 

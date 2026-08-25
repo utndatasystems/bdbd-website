@@ -2,6 +2,7 @@
 layout: page
 permalink: /2025/program/
 title: Program
+event_year: "2025"
 nav: true
 nav_order: 2
 ---
