@@ -1,3 +1,5 @@
+{% assign page_year = page.event_year | default: site.current_year %}
+
 {% capture footer_contents %}
   <div class="d-flex flex-column flex-md-row align-items-center justify-content-center gap-2 text-center text-md-start">
     <!-- Text -->
@@ -13,12 +15,21 @@
 
     <!-- Logos -->
     <div class="d-inline-flex align-items-center gap-3 ms-md-4 text-nowrap px-4">
-      <img src="{{ '/assets/img/utn.png' | relative_url }}"
-           alt="University of Technology Nuremberg"
-           class="footer-logo" style="height: 1.5rem" loading="eager">
-      <img src="{{ '/assets/img/lmu.png' | relative_url }}"
-           alt="Ludwig-Maximilians-Universität"
-           class="footer-logo" style="height: 2rem" loading="eager">
+      {% if page_year == '2026' %}
+        <img src="{{ '/assets/img/lmu.png' | relative_url }}"
+             alt="Ludwig-Maximilians-Universität"
+             class="footer-logo" style="height: 2rem" loading="eager">
+        <img src="{{ '/assets/img/utn.png' | relative_url }}"
+             alt="University of Technology Nuremberg"
+             class="footer-logo" style="height: 1.5rem" loading="eager">
+      {% else %}
+        <img src="{{ '/assets/img/utn.png' | relative_url }}"
+             alt="University of Technology Nuremberg"
+             class="footer-logo" style="height: 1.5rem" loading="eager">
+        <img src="{{ '/assets/img/lmu.png' | relative_url }}"
+             alt="Ludwig-Maximilians-Universität"
+             class="footer-logo" style="height: 2rem" loading="eager">
+      {% endif %}
     </div>
   </div>
 {% endcapture %}
