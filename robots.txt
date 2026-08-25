@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://www.databaseday.de/sitemap.xml
+Sitemap: https://databaseday.de/sitemap.xml

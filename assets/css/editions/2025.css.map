@@ -1,0 +1,1 @@
+{"version":3,"sourceRoot":"","sources":["2025.scss"],"names":[],"mappings":"AAEA,kBACE","sourcesContent":["@charset \"utf-8\";\n\nbody.edition-2025 {\n --edition-accent-color: #0b7fab;\n}\n"],"file":"2025.css"}
