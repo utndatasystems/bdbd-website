@@ -25,8 +25,19 @@ body.edition-2026 #navbar > .container {
 body.edition-2026 #navbar .navbar-brand.title {
   background-color: rgba(255, 255, 255, 0.88);
   border-radius: 4px;
+  box-shadow: none;
+  color: var(--global-text-color);
   line-height: 1.2;
   padding: 0.18rem 0.45rem;
+  transition: none;
+}
+
+body.edition-2026 #navbar .navbar-brand.title:hover,
+body.edition-2026 #navbar .navbar-brand.title:focus {
+  background-color: rgba(255, 255, 255, 0.88);
+  box-shadow: none;
+  color: var(--global-text-color);
+  text-decoration: none;
 }
 
 body.edition-2026 .participation-page {
