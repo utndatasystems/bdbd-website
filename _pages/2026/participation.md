@@ -30,10 +30,6 @@ nav_order: 3
         <dd>None</dd>
       </div>
       <div>
-        <dt>Dinner</dt>
-        <dd>Included</dd>
-      </div>
-      <div>
         <dt>Participants</dt>
         <dd>Professors, PhD students, and Bachelor's and Master's students</dd>
       </div>
