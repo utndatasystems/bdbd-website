@@ -22,6 +22,13 @@ body.edition-2026 #navbar > .container {
   z-index: 1;
 }
 
+body.edition-2026 #navbar .navbar-brand.title {
+  background-color: rgba(255, 255, 255, 0.88);
+  border-radius: 4px;
+  line-height: 1.2;
+  padding: 0.18rem 0.45rem;
+}
+
 body.edition-2026 .participation-page {
   margin-top: 1.75rem;
 }
