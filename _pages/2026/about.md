@@ -5,7 +5,7 @@ permalink: /2026/
 event_year: "2026"
 home: true
 heading: <b>Bavarian Database Day</b> 2026
-subtitle: Research / Industry Talks & Networking<br>October 26, 2026
+subtitle: Research and Industry Talks & Networking<br>October 26, 2026
 
 profile:
   align: right
@@ -29,8 +29,8 @@ announcements:
   </figure>
 
   <section class="home-intro">
-    <p class="home-kicker">Second annual BDBD conference</p>
-    <p class="home-lead">Bavarian Database Day 2026 brings together database researchers and academic data-management professionals for a focused day of talks, discussion, and networking in Munich.</p>
+    <p class="home-kicker">Second Annual BDBD Conference</p>
+    <p class="home-lead">Bavarian Database Day 2026 brings together database researchers and academic data management professionals for a focused day of talks, discussions, and networking in Munich.</p>
     <dl class="home-facts">
       <div>
         <dt>Date</dt>
@@ -46,7 +46,7 @@ announcements:
       </div>
       <div>
         <dt>Registration</dt>
-        <dd>Free, opening TBD</dd>
+        <dd>Free; registration opening TBD</dd>
       </div>
     </dl>
     <div class="home-actions">
@@ -59,7 +59,7 @@ announcements:
     <h2>Important Dates</h2>
     <dl class="home-facts">
       <div>
-        <dt>Submission deadline</dt>
+        <dt>Submission Deadline</dt>
         <dd>September 3, 2026, 11:59 PM CEST</dd>
       </div>
       <div>
@@ -67,7 +67,7 @@ announcements:
         <dd>September 8, 2026</dd>
       </div>
       <div>
-        <dt>Event day</dt>
+        <dt>Event Day</dt>
         <dd>October 26, 2026</dd>
       </div>
     </dl>
@@ -75,7 +75,7 @@ announcements:
 
   <section class="home-section">
     <h2>About BDBD</h2>
-    <p>The Bavarian Database Day (BDBD) is an annual one-day workshop bringing together researchers and professionals from the database community to present current work, discuss future directions, and connect with each other.</p>
+    <p>The Bavarian Database Day (BDBD) is an annual one-day workshop bringing together researchers and professionals from the database community to present current work, discuss future directions, and connect with one another.</p>
     <p>The 2026 edition focuses on talks from the academic database community, with a particular emphasis on junior researchers.</p>
   </section>
 
