@@ -6,6 +6,22 @@ body.edition-2026 {
   --edition-accent-color: #8a1538;
 }
 
+body.edition-2026 #navbar {
+  background-color: white;
+  background-image:
+    linear-gradient(to right, rgba(255, 255, 255, 0) 0%, rgba(255, 255, 255, 0) 42%, white 100%),
+    url("/assets/img/bavarian-flag.svg");
+  background-position: left center, left center;
+  background-repeat: no-repeat, no-repeat;
+  background-size: min(56vw, 34rem) 100%, min(56vw, 34rem) auto;
+  opacity: 1;
+}
+
+body.edition-2026 #navbar > .container {
+  position: relative;
+  z-index: 1;
+}
+
 body.edition-2026 .participation-page {
   margin-top: 1.75rem;
 }

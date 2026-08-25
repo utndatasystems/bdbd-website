@@ -76,7 +76,7 @@ announcements:
   <section class="home-section">
     <h2>About BDBD</h2>
     <p>The Bavarian Database Day (BDBD) is an annual one-day workshop bringing together researchers and professionals from the database community to present current work, discuss future directions, and connect with each other.</p>
-    <p>The 2026 edition focuses on talks from the academic database community, with a particular emphasis on junior researchers. Dinner is included.</p>
+    <p>The 2026 edition focuses on talks from the academic database community, with a particular emphasis on junior researchers.</p>
   </section>
 
   <section class="home-section">
