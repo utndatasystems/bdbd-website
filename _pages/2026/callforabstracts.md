@@ -36,7 +36,7 @@ nav_order: 2
       </div>
       <div>
         <dt>Abstract format</dt>
-        <dd>Single-page abstract</dd>
+        <dd>Single-page abstract, up to 200 words</dd>
       </div>
       <div>
         <dt>Talk format</dt>
@@ -69,7 +69,7 @@ nav_order: 2
     <ul class="call-requirements-list">
       <li>The name and affiliation of the prospective speaker</li>
       <li>The title of the presentation</li>
-      <li>An abstract of the presentation</li>
+      <li>An abstract of the presentation, limited to 200 words</li>
       <li>References to any papers covered by the proposed talk</li>
     </ul>
     <p>Multiple submissions are allowed. Talks do not require published work.</p>
