@@ -38,7 +38,7 @@ announcements:
       </div>
       <div>
         <dt>Time</dt>
-        <dd>9:00-18:00</dd>
+        <dd>9:00 AM - 6:00 PM</dd>
       </div>
       <div>
         <dt>Venue</dt>

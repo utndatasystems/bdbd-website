@@ -13,7 +13,7 @@ nav_order: 2
 <div class="call-for-abstracts-page">
   <section class="call-section call-intro">
     <p class="lead">We invite the submission of <strong>single-page abstracts</strong> describing published work, unpublished work, or ongoing research. A selection of submissions will be chosen for presentation as talks at Bavarian Database Day 2026.</p>
-    <p>The call is aimed at database professionals in academia. Bavarian Database Day fosters interaction and collaboration among data management researchers and practitioners in Bavaria and beyond, with a particular focus on highlighting presentations by junior researchers.</p>
+    <p>Bavarian Database Day fosters interaction and collaboration among data management researchers and practitioners in Bavaria and beyond, with a particular focus on highlighting presentations by junior researchers.</p>
     <p class="call-action">
       <a class="call-button" href="https://docs.google.com/forms/d/e/1FAIpQLSdHqnR8AN4K9YMEkKMzwtSgxw2WDRvJ1yP51l1e0uPVsmU9GA/viewform?usp=publish-editor">Submit an Abstract</a>
     </p>

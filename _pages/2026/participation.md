@@ -19,7 +19,7 @@ nav_order: 3
       </div>
       <div>
         <dt>Time</dt>
-        <dd>9:00-18:00</dd>
+        <dd>9:00 AM - 6:00 PM</dd>
       </div>
       <div>
         <dt>Location</dt>
