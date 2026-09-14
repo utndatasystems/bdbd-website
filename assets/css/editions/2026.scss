@@ -23,7 +23,7 @@ body.edition-2026 #navbar > .container {
 }
 
 body.edition-2026 #navbar .navbar-brand.title {
-  background-color: rgba(255, 255, 255, 0.88);
+  background-color: #fff !important;
   border-radius: 4px;
   box-shadow: none;
   color: var(--global-text-color);
@@ -34,7 +34,7 @@ body.edition-2026 #navbar .navbar-brand.title {
 
 body.edition-2026 #navbar .navbar-brand.title:hover,
 body.edition-2026 #navbar .navbar-brand.title:focus {
-  background-color: rgba(255, 255, 255, 0.88);
+  background-color: #fff !important;
   box-shadow: none;
   color: var(--global-text-color);
   text-decoration: none;
