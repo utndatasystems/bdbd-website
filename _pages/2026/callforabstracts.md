@@ -14,6 +14,7 @@ nav_order: 2
   <section class="call-section call-intro">
     <p class="lead">We invite the submission of <strong>single-page abstracts</strong> describing published work, unpublished work, or ongoing research. A selection of submissions will be chosen for presentation as talks at Bavarian Database Day 2026.</p>
     <p>Bavarian Database Day fosters interaction and collaboration among data management researchers and practitioners in Bavaria and beyond, with a particular focus on highlighting presentations by junior researchers.</p>
+    <p>Authors of accepted papers automatically receive a participation slot. Registration info for those not presenting will be announced separately after program has been set (if there are still slots available).</p>
     <p class="call-action">
       <a class="call-button" href="https://docs.google.com/forms/d/e/1FAIpQLSdHqnR8AN4K9YMEkKMzwtSgxw2WDRvJ1yP51l1e0uPVsmU9GA/viewform?usp=publish-editor">Submit an Abstract</a>
     </p>
@@ -60,6 +61,7 @@ nav_order: 2
       <li>Data mining, machine learning, and information retrieval</li>
       <li>Data security, privacy, and personalization</li>
       <li>Big data and data science</li>
+      <li>ML4Systems and Systems4ML</li>
     </ul>
   </section>
 

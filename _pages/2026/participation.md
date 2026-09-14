@@ -31,7 +31,7 @@ nav_order: 3
       </div>
       <div>
         <dt>Participants</dt>
-        <dd>Professors, PhD students, and Bachelor's and Master's students</dd>
+        <dd>Professors, postdocs, PhD students, and Bachelor's and Master's students</dd>
       </div>
     </dl>
     <p class="participation-action">
@@ -41,7 +41,9 @@ nav_order: 3
 
   <section class="participation-section">
     <h2>Registration</h2>
-    <p>Registration is open to professors, PhD students, and Bachelor's and Master's students. There is no registration fee.</p>
+    <p>Registration is open to professors, postdocs, PhD students, and Bachelor's and Master's students. There is no registration fee.</p>
+
+    <p>Authors of accepted papers automatically receive a participation slot. Registration info for those not presenting will be announced separately after program has been set (if there are still slots available).</p>
     <dl class="participation-facts">
       <div>
         <dt>Registration opening</dt>

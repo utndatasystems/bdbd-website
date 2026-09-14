@@ -30,7 +30,7 @@ announcements:
 
   <section class="home-intro">
     <p class="home-kicker">Second Annual BDBD Conference</p>
-    <p class="home-lead">Bavarian Database Day 2026 brings together database researchers and academic data management professionals for a focused day of talks, discussions, and networking in Munich.</p>
+    <p class="home-lead">Bavarian Database Day 2026 brings together database researchers and academic data management professionals at all levels for a focused day of talks, discussions, and networking in Munich.</p>
     <dl class="home-facts">
       <div>
         <dt>Date</dt>
@@ -46,7 +46,7 @@ announcements:
       </div>
       <div>
         <dt>Registration</dt>
-        <dd>Free; registration opening TBD</dd>
+        <dd>Free; Authors of accepted papers automatically receive a participation slot. Registration info for those not presenting will be announced separately after program has been set (if there are still slots available).</dd>
       </div>
     </dl>
     <div class="home-actions">
@@ -82,5 +82,15 @@ announcements:
   <section class="home-section">
     <h2>Organizers</h2>
     <p>Bavarian Database Day 2026 is organized by <a href="https://www.dbs.ifi.lmu.de/cms/personen/professoren/paradies/index.html">Marcus Paradies</a> and <a href="https://utndatasystems.github.io/">Andreas Kipf</a>.</p>
+  </section>
+
+  <section class="home-section">
+    <h2>Sponsors</h2>
+    <p>A special thanks goes to this year’s sponsor, <a href="https://www.dynatrace.com/">Dynatrace</a>, without whom this event would not be possible:</p>
+    <div class="mx-auto d-block col-sm-6 my-5">
+      <a href="https://www.dynatrace.com/">
+      {% include figure.liquid loading="eager" path="assets/img/Dt_Logo_Color-Horizontal.svg" alt="Dynatrace" class="img-fluid" %}
+      </a>
+    </div>
   </section>
 </div>
