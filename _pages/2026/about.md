@@ -60,11 +60,11 @@ announcements:
     <dl class="home-facts">
       <div>
         <dt>Submission Deadline</dt>
-        <dd>September 3, 2026, 11:59 PM CEST</dd>
+        <dd>September 28, 2026, 11:59 PM CEST</dd>
       </div>
       <div>
         <dt>Notification</dt>
-        <dd>September 8, 2026</dd>
+        <dd>October 5, 2026</dd>
       </div>
       <div>
         <dt>Event Day</dt>
