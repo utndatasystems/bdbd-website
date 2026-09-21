@@ -93,4 +93,13 @@ announcements:
       </a>
     </div>
   </section>
+
+  <section class="home-section">
+    <h2>Supporters</h2>
+    <div class="mx-auto d-block col-sm-5 my-5">
+      <a href="http://tumuchdata.club/">
+      {% include figure.liquid loading="eager" path="assets/img/tumuchdata.png" alt="TUMuchData" class="img-fluid" %}
+      </a>
+    </div>
+  </section>
 </div>
