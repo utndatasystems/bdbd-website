@@ -66,4 +66,7 @@ ninja.data = [{
           section: "News",},{id: "news-website-is-live",
           title: 'Website is live.',
           description: "",
+          section: "News",},{id: "news-the-program-for-bavarian-database-day-2026-is-now-published",
+          title: 'The program for Bavarian Database Day 2026 is now published!',
+          description: "",
           section: "News",},];
