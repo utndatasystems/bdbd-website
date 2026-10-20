@@ -50,7 +50,9 @@ announcements:
       </div>
     </dl>
     <div class="home-actions">
-      <a class="home-button home-button-primary" href="{{ '/2026/call-for-abstracts/' | relative_url }}">Submit an Abstract</a>
+      <div class="home-submission-action">
+        <button class="home-button" type="button" disabled>Submit an Abstract</button>
+      </div>
       <a class="home-button" href="{{ '/2026/participation/' | relative_url }}">Participation Info</a>
     </div>
   </section>

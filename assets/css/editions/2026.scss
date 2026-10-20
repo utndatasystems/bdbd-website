@@ -178,6 +178,30 @@ body.edition-2026 .call-button {
   padding: 0.55rem 0.8rem;
 }
 
+body.edition-2026 .call-action,
+body.edition-2026 .home-submission-action {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0.6rem 1rem;
+}
+
+body.edition-2026 .call-button:disabled,
+body.edition-2026 .home-button:disabled {
+  background-color: #e9ecef;
+  border-color: #ced4da;
+  color: #626970;
+  cursor: not-allowed;
+  flex-shrink: 0;
+  font-family: inherit;
+  font-size: inherit;
+}
+
+body.edition-2026 .call-closed-note {
+  color: var(--global-text-color-light);
+  font-size: 0.9rem;
+}
+
 body.edition-2026 .call-facts {
   display: grid;
   gap: 0;
@@ -366,6 +390,7 @@ body.edition-2026 #standings {
 body.edition-2026 .home-actions {
   display: flex;
   flex-wrap: wrap;
+  align-items: center;
   gap: 0.7rem;
 }
 

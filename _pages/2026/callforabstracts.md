@@ -16,7 +16,8 @@ nav_order: 2
     <p>Bavarian Database Day fosters interaction and collaboration among data management researchers and practitioners in Bavaria and beyond, with a particular focus on highlighting presentations by junior researchers.</p>
     <p>Authors of accepted papers automatically receive a participation slot. Registration info for those not presenting will be announced separately after program has been set (if there are still slots available).</p>
     <p class="call-action">
-      <a class="call-button" href="https://docs.google.com/forms/d/e/1FAIpQLSdHqnR8AN4K9YMEkKMzwtSgxw2WDRvJ1yP51l1e0uPVsmU9GA/viewform?usp=publish-editor">Submit an Abstract</a>
+      <button class="call-button" type="button" disabled aria-describedby="submission-closed-note">Submit an Abstract</button>
+      <span class="call-closed-note" id="submission-closed-note">Submissions are closed because the September 28, 2026 deadline has passed.</span>
     </p>
   </section>
 

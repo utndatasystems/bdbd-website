@@ -47,15 +47,15 @@ nav_order: 3
     <dl class="participation-facts">
       <div>
         <dt>Registration opening</dt>
-        <dd>TBD</dd>
+        <dd>Registration closed</dd>
       </div>
       <div>
         <dt>Registration deadline</dt>
-        <dd>TBD</dd>
+        <dd>Registration closed</dd>
       </div>
       <div>
         <dt>Capacity</dt>
-        <dd>TBD</dd>
+        <dd>50</dd>
       </div>
     </dl>
   </section>
