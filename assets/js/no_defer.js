@@ -18,7 +18,9 @@ $(document).ready(function () {
       $(this).attr("data-toggle", "table");
       // add some classes to make the table look better
       // $(this).addClass('table-sm');
-      $(this).addClass("table-hover");
+      if ($(this).attr("data-hover") !== "false") {
+        $(this).addClass("table-hover");
+      }
     }
   });
 });

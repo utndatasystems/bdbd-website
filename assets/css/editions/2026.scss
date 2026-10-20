@@ -318,6 +318,51 @@ body.edition-2026 .home-facts dd {
   margin: 0;
 }
 
+body.edition-2026 #standings {
+  .program-session-title {
+    margin: 0 0 1rem;
+    font-weight: 700;
+    line-height: 1.4;
+  }
+
+  .program-talk {
+    line-height: 1.5;
+  }
+
+  .program-talk + .program-talk {
+    margin-top: 1rem;
+    padding-top: 1rem;
+    border-top: 1px solid var(--global-divider-color);
+  }
+
+  .program-talk-time {
+    display: inline-block;
+    margin-bottom: 0.35rem;
+    color: var(--global-text-color-light);
+    font-size: 0.8rem;
+    font-weight: 500;
+    font-variant-numeric: tabular-nums;
+  }
+
+  .program-talk-title {
+    margin: 0 0 0.35rem;
+    font-weight: 600;
+    line-height: 1.4;
+  }
+
+  .program-talk-speaker {
+    margin: 0;
+    font-size: 0.9rem;
+    font-weight: 500;
+  }
+
+  .program-talk-affiliation {
+    margin: 0;
+    color: var(--global-text-color-light);
+    font-size: 0.85rem;
+  }
+}
+
 body.edition-2026 .home-actions {
   display: flex;
   flex-wrap: wrap;
