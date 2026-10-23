@@ -116,7 +116,7 @@ nav_order: 2
           </div>
           <div class="program-talk">
             <span class="program-talk-time">13:45–14:00</span>
-            <p class="program-talk-title">CXL</p>
+            <p class="program-talk-title">Beyond the Network: Towards Distributed Databases on CXL Shared Memory</p>
             <p class="program-talk-speaker">Alexander Baumstark</p>
             <p class="program-talk-affiliation">Technische Universität Ilmenau</p>
           </div>
@@ -164,33 +164,33 @@ nav_order: 2
           <p class="program-session-title">Session 3: AI, Data Integration &amp; Modeling</p>
           <div class="program-talk">
             <span class="program-talk-time">15:45–16:00</span>
+            <p class="program-talk-title">DIGILOG: From Web Chaos to Structured Knowledge for Mining the Digital Municipality</p>
+            <p class="program-talk-speaker">Andreas Weiler</p>
+            <p class="program-talk-affiliation">Zurich University of Applied Sciences</p>
+          </div>
+          <div class="program-talk">
+            <span class="program-talk-time">16:00–16:15</span>
             <p class="program-talk-title">When LLMs Compress: Robust Enough, Fast Enough?</p>
             <p class="program-talk-speaker">Luisa Neubauer</p>
             <p class="program-talk-affiliation">University of Technology Nuremberg</p>
           </div>
           <div class="program-talk">
-            <span class="program-talk-time">16:00–16:15</span>
+            <span class="program-talk-time">16:15–16:30</span>
             <p class="program-talk-title">TABERTA: A Language Model for Dataset Discovery</p>
             <p class="program-talk-speaker">Leonard Traeger</p>
             <p class="program-talk-affiliation">Technische Hochschule Köln</p>
           </div>
           <div class="program-talk">
-            <span class="program-talk-time">16:15–16:30</span>
+            <span class="program-talk-time">16:30–16:45</span>
             <p class="program-talk-title">The Case for Synthesized Data Compression</p>
             <p class="program-talk-speaker">Mihail Stoian</p>
             <p class="program-talk-affiliation">University of Technology Nuremberg</p>
           </div>
           <div class="program-talk">
-            <span class="program-talk-time">16:30–16:45</span>
+            <span class="program-talk-time">16:45–17:00</span>
             <p class="program-talk-title">Innovating at Scale: Research at Dynatrace</p>
             <p class="program-talk-speaker">Otmar Ertl</p>
             <p class="program-talk-affiliation">Dynatrace</p>
-          </div>
-          <div class="program-talk">
-            <span class="program-talk-time">16:45–17:00</span>
-            <p class="program-talk-title">DIGILOG: From Web Chaos to Structured Knowledge for Mining the Digital Municipality</p>
-            <p class="program-talk-speaker">Andreas Weiler</p>
-            <p class="program-talk-affiliation">Zurich University of Applied Sciences</p>
           </div>
           <div class="program-talk">
             <span class="program-talk-time">17:00–17:15</span>
