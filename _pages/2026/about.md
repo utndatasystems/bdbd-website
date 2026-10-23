@@ -88,10 +88,15 @@ announcements:
 
   <section class="home-section">
     <h2>Sponsors</h2>
-    <p>A special thanks goes to this year’s sponsor, <a href="https://www.dynatrace.com/">Dynatrace</a>, without whom this event would not be possible:</p>
+    <p>A special thanks goes to this year’s sponsors, <a href="https://www.dynatrace.com/">Dynatrace</a> and <a href="https://www.salesforce.com/">Salesforce</a>, without whom this event would not be possible:</p>
     <div class="mx-auto d-block col-sm-6 my-5">
       <a href="https://www.dynatrace.com/">
       {% include figure.liquid loading="eager" path="assets/img/Dt_Logo_Color-Horizontal.svg" alt="Dynatrace" class="img-fluid" %}
+      </a>
+    </div>
+    <div class="mx-auto d-block col-sm-6 my-5">
+      <a href="https://www.salesforce.com/">
+      {% include figure.liquid loading="eager" path="assets/img/salesforce-logo.jpg" alt="Salesforce" class="img-fluid" %}
       </a>
     </div>
   </section>
