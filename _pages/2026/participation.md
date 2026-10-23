@@ -104,11 +104,6 @@ nav_order: 3
   </section>
 
   <section class="participation-section">
-    <h2>Accommodation</h2>
-    <p>Accommodation recommendations: TBD.</p>
-  </section>
-
-  <section class="participation-section">
     <h2>Contact</h2>
 
 {% assign andreas_email = 'andreas.kipf' | append: '@' | append: 'utn.de' %}
