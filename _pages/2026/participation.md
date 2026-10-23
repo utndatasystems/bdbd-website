@@ -69,6 +69,14 @@ nav_order: 3
   </section>
 
   <section class="participation-section">
+    <h2>Dinner</h2>
+    <p>Dinner takes place at <strong>Königlicher Hirschgarten</strong> from 18:30 to 21:00.</p>
+    <p class="participation-address">
+      <a href="https://share.google/5yAqgTAukjRoPQdEW">Hirschgarten 1, 80639 München</a>
+    </p>
+  </section>
+
+  <section class="participation-section">
     <h2>Getting There</h2>
     <div class="participation-travel-list">
       <div class="participation-travel-item">

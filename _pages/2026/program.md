@@ -219,7 +219,7 @@ nav_order: 2
       <tr class="header" style="background-color: rgb(240, 240, 240);">
         <td class="text-nowrap">18:30–21:00</td>
         <td></td>
-        <td>Dinner</td>
+        <td>Dinner at <a href="https://share.google/5yAqgTAukjRoPQdEW">Königlicher Hirschgarten</a><br>Hirschgarten 1, 80639 München</td>
       </tr>
     </tbody>
   </table>
